@@ -28,27 +28,14 @@
 
 ## 🔧 Installation & Setup
 
-1. **Install Python 3.10**  
-   [Download Python 3.10](https://www.python.org/downloads/release/python-3100/)
-
-2. **Install the required packages**
-
----
-
 ```bash
+# 1. Install Python 3.10 (if needed)
+# Download from: https://www.python.org/downloads/release/python-3100/
+
+# 2. Install required packages
 pip install opencv-python mediapipe pyautogui
 
-## 🚀 Running the Application
-
-1. **Clone this repository:**
-
-```bash
+# 3. Clone and run the application
 git clone https://github.com/Udavith-Reshanjana/VisionCursor.git
 cd VisionCursor
-
-2. **Run the main script:**
-
-```bash
 python vision_cursor.py
-
----
