@@ -35,3 +35,17 @@
 
 ```bash
 pip install opencv-python mediapipe pyautogui
+
+## 🚀 Running the Application
+
+1. **Clone this repository:**
+
+```bash
+git clone https://github.com/Udavith-Reshanjana/VisionCursor.git
+cd VisionCursor
+
+2. **Run the main script:**
+
+```bash
+python vision_cursor.py
+
