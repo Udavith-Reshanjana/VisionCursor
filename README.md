@@ -33,6 +33,8 @@
 
 2. **Install the required packages**
 
+---
+
 ```bash
 pip install opencv-python mediapipe pyautogui
 
@@ -49,3 +51,4 @@ cd VisionCursor
 ```bash
 python vision_cursor.py
 
+---
