@@ -1,6 +1,6 @@
 # VisionCursor
 
-**VisionCursor** is a Python 3.10-based tool that lets you control your mouse cursor using hand gestures in real time through your webcam. Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**, it enables touchless human-computer interaction — ideal for accessibility, demos, or experimental user interface projects.
+**VisionCursor** is a Python 3.10-based tool that lets you control your mouse cursor using hand gestures in real time through your webcam. Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**, it enables touchless human-computer interaction, ideal for accessibility, demos, or experimental user interface projects.
 
 ---
 
@@ -28,14 +28,21 @@
 
 ## 🔧 Installation & Setup
 
+
+1. **Install Python 3.10 (if needed)**
+  
+   Download from: https://www.python.org/downloads/release/python-3100/
+
+4. **Install required packages**
+
 ```bash
-# 1. Install Python 3.10 (if needed)
-# Download from: https://www.python.org/downloads/release/python-3100/
-
-# 2. Install required packages
 pip install opencv-python mediapipe pyautogui
+```
 
-# 3. Clone and run the application
+3. **Clone and run the application**
+
+```bash
 git clone https://github.com/Udavith-Reshanjana/VisionCursor.git
 cd VisionCursor
 python vision_cursor.py
+```
