@@ -44,5 +44,5 @@ pip install opencv-python mediapipe pyautogui
 ```bash
 git clone https://github.com/Udavith-Reshanjana/VisionCursor.git
 cd VisionCursor
-python vision_cursor.py
+python visionCursor.py
 ```
